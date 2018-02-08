@@ -17,3 +17,9 @@ And everything else displays the average. "command is not recognised" message
 If you do have any ideas, tweet them at me.
 
 NOTE: You will have to compile the program yourself -If Needed- and change the CMD in System32. Do remember to use it on a virtual machine though :/
+
+
+# FileBomb
+Simply edit the filebomb to your liking, compile the batch file, and add a disguise logo. Then run it whenever you'd like!
+
+Creates Folders in a rapid pace, into the directory of C:\Users\USERNAME\
